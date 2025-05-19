@@ -1,2 +1,2 @@
 # MS-Excel-Projects
-This repository contains projects I completed using MS Excel
+This repository contains projects completed using MS Excel
